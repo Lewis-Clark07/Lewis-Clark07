@@ -1,45 +1,36 @@
 # Hi there, I'm Lewis Clark 👋
 
-Software developer from the North East of England, passionate about building web applications and learning new technologies.
+Aspiring Network & Security Engineer from the North East of England, focused on cybersecurity, network infrastructure, and building secure systems.
 
 ## 🚀 About Me
 
-- 💻 Full-stack developer with experience in Python and JavaScript
-- 🌱 Currently expanding my skills in web development frameworks
+- 🔐 Passionate about cybersecurity and network security
+- 🌐 Learning network protocols, infrastructure design, and security best practices
+- 🛡️ Interested in penetration testing, vulnerability assessment, and threat analysis
 - 📍 Based in North East England
 - 🎵 Music enthusiast - check out what I'm listening to below!
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
-**Languages**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**Security & Networking**  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Cisco](https://img.shields.io/badge/-Cisco-049fd9?style=flat-square&logo=cisco&logoColor=white)
 
-**Frameworks & Tools**  
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+**Tools & Technologies**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lewis-Clark07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lewis-Clark07&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="165" />
-</div>
-
-## 🎵 Recently Played on Spotify
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Lewisclark">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Lewisclark&count=5" alt="Spotify recently played" />
-  </a>
-</div>
+**Programming**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ## 📫 Let's Connect
 
-Feel free to reach out if you want to collaborate on a project or just chat about tech!
+Always interested in connecting with fellow security enthusiasts and network professionals. Feel free to reach out to discuss cybersecurity, networking, or potential collaborations!
 
 ---
 
