@@ -8,7 +8,6 @@ Aspiring Network & Security Engineer from the North East of England, focused on 
 - 🌐 Learning network protocols, infrastructure design, and security best practices
 - 🛡️ Interested in penetration testing, vulnerability assessment, and threat analysis
 - 📍 Based in North East England
-- 🎵 Music enthusiast - check out what I'm listening to below!
 
 ## 🛠️ Tech Stack & Skills
 
@@ -33,7 +32,3 @@ Aspiring Network & Security Engineer from the North East of England, focused on 
 Always interested in connecting with fellow security enthusiasts and network professionals. Feel free to reach out to discuss cybersecurity, networking, or potential collaborations!
 
 ---
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Lewis-Clark07/Lewis-Clark07/output/snake.svg" alt="Snake animation" />
-</div>
